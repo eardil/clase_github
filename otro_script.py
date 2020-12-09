@@ -1,5 +1,5 @@
-print("keovo")
-print("aquí hay otros tasks")
+print("Que onda")
+print("Aquí hay otros tasks")
 print("blabla")
 
 print("Adiós")
